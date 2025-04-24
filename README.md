@@ -10,7 +10,7 @@ This project simulates the setup of a small enterprise virtual network using **W
 
 - Configure a Windows Server VM  as a **domain controller**.
 - Install and configure **Active Directory Domain Services** (AD DS).
-- Join two client machineS to the new domain: `savn.local`.
+- Join two client machines to the new domain: `savn.local`.
 - Verify IP connectivity across all machines.
 - Capture key configuration steps via screenshots.
 
@@ -28,6 +28,39 @@ This project simulates the setup of a small enterprise virtual network using **W
 ---
 
 ## 🖼️ Screenshots
+<p align="center">
+AD DS and DNS roles installed: <br/>
+<img src="https://i.imgur.com/2JYwRkH.png" height="80%" width="80%" 
+</br>
+
+<p align="center">
+Domain promoted successfully: <br/>
+<img src="https://i.imgur.com/6QjGJiW.png" height="80%" width="80%">
+<img src="https://i.imgur.com/qYV45PH.png" height="80%" width="80%">
+<br />
+
+<p align="center">
+Client joined to domain: <br/>
+<img src="https://i.imgur.com/Jsel9BE.png" height="80%" width="80%" 
+</br>
+
+<p align="center">
+Another client joined to domain: <br/>
+<img src="https://i.imgur.com/FSwDlUT.png" height="80%" width="80%" 
+</br>
+
+<p align="center">
+Final domain controller check: <br/>
+<img src="https://i.imgur.com/KLnFtnX.png" height="80%" width="80%" 
+</br>
+
+
+
+
+
+
+
+
 
 
 ---
