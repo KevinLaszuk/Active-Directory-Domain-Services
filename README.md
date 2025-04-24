@@ -20,7 +20,7 @@ This project simulates the setup of a small enterprise virtual network using **W
 
 - **Windows Server 2022**
 - **Windows 10**
-- **Virtualization Platform** (e.g., Hyper-V / VMware)
+- **Virtualization Platform** (VirtualBox)
 - **Active Directory Domain Services**
 - **RDP / MMC / Server Manager**
 - **Static IP Configuration**
