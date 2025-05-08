@@ -30,7 +30,7 @@ This project simulates the setup of a small enterprise virtual network using **W
 ## 🖼️ Screenshots
 <p align="center">
 AD DS and DNS roles installed: <br/>
-<img src="https://i.imgur.com/2JYwRkH.png" height="80%" width="80%" 
+<img src="https://github.com/user-attachments/assets/af668002-bf83-4a0a-89c1-1fdbe8396666" height="80%" width="80%" 
 </br>
 
 <p align="center">
